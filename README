@@ -1,6 +1,4 @@
-# headerguard.vim
-Vim plugin for generating header guard
-
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2021
 
 ******************************************************
 Headerguard -  Add header guards to C/C++ header files
@@ -29,3 +27,4 @@ Developed by Michael Henry (vim at drmikehenry.com).
 Distributed under Vim's license.
 
 Git repository:   https://github.com/drmikehenry/vim-headerguard
+

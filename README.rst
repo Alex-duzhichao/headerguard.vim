@@ -1,7 +1,3 @@
-# headerguard.vim
-Vim plugin for generating header guard
-
-
 ******************************************************
 Headerguard -  Add header guards to C/C++ header files
 ******************************************************
